@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CAST256Algo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CAST256AlgoDecrypt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CAST256AlgoDecrypt-Debug-36ab2df603afde223a91.json",
+					"name" : "CAST256AlgoDecrypt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CAST256AlgoEncrypt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CAST256AlgoEncrypt-Debug-cc29804a69ca1556dd3c.json",
+					"name" : "CAST256AlgoEncrypt",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zhest/CLionProjects/CAST256Algo/cmake-build-debug",
+		"source" : "C:/Users/zhest/CLionProjects/CAST256Algo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
